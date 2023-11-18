@@ -1,0 +1,9 @@
+
+import React from "react";
+function Car()
+{
+  return (
+    <h3>ferrari</h3>
+  )
+}
+export default Car;
